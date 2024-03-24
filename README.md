@@ -23,3 +23,4 @@ You can click the Preview link to take a look at your changes.
 
 ![image](https://github.com/p0ised/p0ised/assets/138183884/9a0e4119-59ca-422c-bcca-f5e678190069)
 ![image](https://github.com/p0ised/p0ised/assets/138183884/1410547e-77a7-43c8-9101-24e25fa71903)
+![data-science-methodology](https://github.com/p0ised/p0ised/assets/138183884/8fabda7c-c800-4e82-8830-d31cde002f4c)
