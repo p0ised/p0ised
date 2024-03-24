@@ -23,3 +23,4 @@ You can click the Preview link to take a look at your changes.
 
 View all my ceritifcations on Credly: 
 https://www.credly.com/users/anthony-ramirez.eb4eddd4
+
