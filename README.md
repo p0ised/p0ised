@@ -23,8 +23,9 @@ You can click the Preview link to take a look at your changes.
 
 View all my ceritifcations on Credly: 
 https://www.credly.com/users/anthony-ramirez.eb4eddd4
-[![Data Science Methodology Foundational Badge](https://images.credly.com/size/340x340/images/46defa53-a922-47bd-94ea-b43488f5cd8a/Data_Science_Methodology_Foundational.png)](https://www.credly.com/badges/da756b94-7794-440c-baf5-56c0f9a17814/public_url)
-[![Tools for Data Science V2](https://images.credly.com/size/340x340/images/1447954e-9923-4703-a647-eac80e5f0682/image.png)](https://www.credly.com/badges/4705919d-1f49-4c5a-a727-db83bda50830/public_url)
-[![Data Science Orientation](https://github.com/p0ised/p0ised/assets/138183884/851d5327-7659-4af5-864f-4ae2cdffb010)](https://www.credly.com/badges/db003986-7da6-41e3-bde3-b4bc34951c0e/public_url)
 
+
+[![Data Science Methodology Foundational Badge](https://github.com/p0ised/p0ised/assets/138183884/55da303f-20d0-4efc-a515-369d5d7d2318)](https://www.credly.com/badges/da756b94-7794-440c-baf5-56c0f9a17814/public_url)
+[![Tools for Data Science V2](https://github.com/p0ised/p0ised/assets/138183884/2b99e1b9-8413-4c10-8fb3-1d226768d6fa)](https://www.credly.com/badges/4705919d-1f49-4c5a-a727-db83bda50830/public_url)
+[![Data Science Orientation](https://github.com/p0ised/p0ised/assets/138183884/851d5327-7659-4af5-864f-4ae2cdffb010)](https://www.credly.com/badges/db003986-7da6-41e3-bde3-b4bc34951c0e/public_url)
 
