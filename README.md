@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anthony aka @p0ised a data-driven professional with a passion for transforming complex data into actionable insights.
 - 👀 I’m interested in Human-AI Coevolution, Societal Transformation and Cognitive Enhancement
-- 🌱 I’m currently pursuing an MBA with a focus on Data Science aswell as a Master Grad Certification in Data Science.
+- 🌱 MBA & Master Grad Certification in Data Science.
 - 📫 How to reach me LinkedIn:  [LinkedIn](https://www.linkedin.com/in/anthony-ramirez32/)
 - ⚡ Fun fact: ✨
 
