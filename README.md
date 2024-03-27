@@ -6,10 +6,7 @@
 - 📫 How to reach me LinkedIn:  [LinkedIn](https://www.linkedin.com/in/anthony-ramirez32/)
 - ⚡ Fun fact: ✨
 
-### Education:
 
-Master Graduate Certificate in Data Science (The University of Texas at San Antonio)
-Master's in Business Administration (The University of Texas at San Antonio)
 <!---
 p0ised/p0ised is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -30,3 +27,15 @@ View all my ceritifcations on [Credly](https://www.credly.com/users/anthony-rami
 [![Tools for Data Science V2](https://github.com/p0ised/p0ised/assets/138183884/2b99e1b9-8413-4c10-8fb3-1d226768d6fa)](https://www.credly.com/badges/4705919d-1f49-4c5a-a727-db83bda50830/public_url)
 [![Data Science Orientation](https://github.com/p0ised/p0ised/assets/138183884/851d5327-7659-4af5-864f-4ae2cdffb010)](https://www.credly.com/badges/db003986-7da6-41e3-bde3-b4bc34951c0e/public_url)
 
+## ⚙️Technical Skills: 
+
+- [x] Python 🐍
+- [x] Machine Learning 🧠
+- [x] Statistical Analysis μ
+
+
+### 📚Education:
+
+Master Graduate Certificate in Data Science (The University of Texas at San Antonio)
+
+Master's in Business Administration (The University of Texas at San Antonio)
