@@ -1,4 +1,4 @@
-#### Welcome / Bienvenidos 
+###### Welcome / Bienvenidos 
 - 👋 Hi, I’m Anthony aka @p0ised a data-driven professional with a passion for transforming complex data into actionable insights.
 - 🌎 Currently Based in San Antonio, Texas 
 - 👀 I’m interested in Human-AI Coevolution, Societal Transformation and Cognitive Enhancement
