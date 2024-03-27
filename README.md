@@ -1,10 +1,12 @@
+#### Welcome / Bienvenidos 
 - 👋 Hi, I’m Anthony aka @p0ised a data-driven professional with a passion for transforming complex data into actionable insights.
+- 🌎 Currently Based in San Antonio, Texas 
 - 👀 I’m interested in Human-AI Coevolution, Societal Transformation and Cognitive Enhancement
 - 🌱 
 - 📫 How to reach me LinkedIn:  [LinkedIn](https://www.linkedin.com/in/anthony-ramirez32/)
 - ⚡ Fun fact: ✨
 
-Education:
+### Education:
 
 Master Graduate Certificate in Data Science (The University of Texas at San Antonio)
 Master's in Business Administration (The University of Texas at San Antonio)
